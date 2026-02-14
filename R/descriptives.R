@@ -15,6 +15,8 @@
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #
 
+# tested by openclaw
+
 DescriptivesInternal <- function(jaspResults, dataset, options) {
 
   variables     <- unlist(options[["variables"]])
