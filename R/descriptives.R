@@ -1,4 +1,5 @@
 #
+# tested by openclaw
 # Copyright (C) 2013-2018 University of Amsterdam
 #
 # This program is free software: you can redistribute it and/or modify
